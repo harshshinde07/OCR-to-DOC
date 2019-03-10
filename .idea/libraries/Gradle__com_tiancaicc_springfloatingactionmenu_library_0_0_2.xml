@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tiancaicc.springfloatingactionmenu:library-0.0.2">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.0.2.aar/fe9cb1b1df35c86c7ef53358330f1f56/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.0.2.aar/fe9cb1b1df35c86c7ef53358330f1f56/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-0.0.2.aar/fe9cb1b1df35c86c7ef53358330f1f56/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tiancaicc.springfloatingactionmenu/library/0.0.2/96fb2e7eb7f8f6090f0524a1563de8c143f6973f/library-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
